@@ -1,0 +1,5 @@
+{"asset_id": "1", "attribute_id": "#", "timestamp": "2022-07-31T23:28:37Z[UTC]", "value": "123"}
+{"asset_id": "2", "attribute_id": "@", "timestamp": "2022-07-31T23:28:38Z[UTC]", "value": "785"}
+{"asset_id": "3", "attribute_id": "!", "timestamp": "2022-07-31T23:28:39Z[UTC]", "value": "455"}
+{"asset_id": "4", "attribute_id": "*", "timestamp": "2022-07-31T23:28:39Z[UTC]", "value": "ABC"}
+{"asset_id": "5", "attribute_id": "^", "timestamp": "2022-07-31T23:28:39Z[UTC]", "value": "DOGFDSG"}

@@ -1,0 +1,3 @@
+{"asset_id": "1", "attribute_id": "#", "timestamp": "2022-07-31T23:28:37Z[UTC]", "value": "DOG"}
+{"asset_id": "2", "attribute_id": "@", "timestamp": "2022-07-31T23:28:38Z[UTC]", "value": "DOGSADD"}
+{"asset_id": "3", "attribute_id": "!", "timestamp": "2022-07-31T23:28:39Z[UTC]", "value": "CAT"}
